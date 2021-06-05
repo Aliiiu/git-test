@@ -1,4 +1,5 @@
 // divide.js
+// return the division of two numbers
 function divide (a, b){
-    // TODO return
+    return a/ b;
 };
